@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/convergence-of-heterogeneous-learning-dynamics
 excerpt: 'This paper presents new families of algorithms for the repeated play of two-agent (near) zero-sum games and two-agent zero-sum stochastic games.'
 date: 2023-11-01
-venue: Preprint in arXiv
+venue: arXiv
 paperurl: 
 citation: 
 ---
