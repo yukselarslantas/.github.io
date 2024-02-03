@@ -17,7 +17,8 @@ I'm Yüksel Arslantaş, currently pursuing a Master's in Electrical and Electron
 
 ## 📚 Teaching Experience
 - **Bilkent University** - *Teaching Assistant*
+  - EEE 440/540 - Advanced Mathematics for Signals, Systems, Control and Communications (Spring 2024)
   - EEE 447/547 - Introduction to Robotics (Fall 2022, Fall 2023)
-  - EEE 361 - Linear Algebra in Data Analysis and Machine Learning (Spring 2023)
+  - EEE 361 - Linear Algebra in Data Analysis and Machine Learning (Spring 2023, Spring 2024)
 
 
