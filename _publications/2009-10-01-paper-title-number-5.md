@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ssg
 excerpt: 'This paper investigates the vulnerability of RL (specifically independent Q-learning) algorithms used for defense in the context of stochastic security games with linear influence networks.'
 date: 2024-06-24
-venue: 
+venue: 😊
 paperurl: 
 citation: 
 ---
