@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/ewa
 excerpt: 'This paper investigates a novel control framework for strategic Artificial Intelligence (AI) in human interactions. We leverage the Experience-Weighted Attraction (EWA) model, a widely used method for capturing human learning dynamics.'
 date: 2024-06-07
+venue: 😊
 paperurl: 
 citation: 
 ---
