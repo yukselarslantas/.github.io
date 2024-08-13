@@ -12,7 +12,7 @@
 locale                   : "en-US"
 title                    : "Yüksel Arslantaş"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yüksel Arslantaş"
 description              : &description "personal description"
 url                      : https://yukselarslantas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
