@@ -11,6 +11,7 @@ redirect_from:
 I'm Yüksel Arslantaş, currently pursuing a Master's in Electrical and Electronics Engineering at Bilkent University, building on my Bachelor's foundation from the same institution. Under [Dr. Muhammed Sayın](https://gdn.bilkent.edu.tr/sayin/)'s guidance in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/), my focus spans algorithmic game theory, control theory, and multi-agent reinforcement learning. My research aims to bridge theory and practical applications in these areas.
 
 ## 📰 News
+- 🎉 Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **NeurIPS 2024**!
 - 🎉 Our paper "Strategic Control of Experience-Weighted Attraction Model in Human-AI Interactions" has been accepted for presentation at the **5th IFAC Workshop on Cyber-Physical & Human Systems**!
 - 🎉 Our paper "Strategizing against Q-learners: A Control-theoretical Approach" has been accepted for publication in the **IEEE Control Systems Letters (IEEE L-CSS)**!
 - We are excited to announce that the revised version of our preprint '[Strategizing against Q-learners: A Control-theoretical Approach](https://arxiv.org/abs/2403.08906)' is now available on arXiv! The updated paper extends our original work to encompass multiplayer game settings. In this version, we generalize our approach to scenarios where N-type agents act as the state of the game while A-type agents compete with each other. You can read the revised preprint at arXiv:2403.08906.
