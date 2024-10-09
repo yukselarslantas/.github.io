@@ -15,7 +15,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yüksel Arslantaş"
+title                    : "Fictitious Blog"
 title_separator          : "-"
 name                     : &name "Yüksel Arslantaş"
 description              : &description "personal description"
