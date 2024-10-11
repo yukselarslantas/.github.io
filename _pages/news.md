@@ -1,10 +1,8 @@
 ---
-permalink: /news
+permalink: /news/
 title: "News"
 author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
+
 ---
 
 - 🎉 Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **[NeurIPS 2024](https://neurips.cc/virtual/2024/poster/96521)**!
