@@ -12,7 +12,7 @@ I'm Yüksel Arslantaş, currently pursuing a Master's in Electrical and Electron
 
 ## 📰 News
 - 🎉 Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **NeurIPS 2024**!
-- 🎉 Our paper "Strategic Control of Experience-Weighted Attraction Model in Human-AI Interactions" has been accepted for presentation at the **5th IFAC Workshop on Cyber-Physical & Human Systems**!
+- 🎉 Our paper "Strategic Control of Experience-Weighted Attraction Model in Human-AI Interactions" has been accepted for presentation at the **[5th IFAC Workshop on Cyber-Physical & Human Systems](https://ifac.papercept.net/conferences/conferences/CPHS24/program/CPHS24_ContentListWeb_1.html)**!
 - 🎉 Our paper "Strategizing against Q-learners: A Control-theoretical Approach" has been accepted for publication in the **IEEE Control Systems Letters (IEEE L-CSS)**!
 - We are excited to announce that the revised version of our preprint '[Strategizing against Q-learners: A Control-theoretical Approach](https://arxiv.org/abs/2403.08906)' is now available on arXiv! The updated paper extends our original work to encompass multiplayer game settings. In this version, we generalize our approach to scenarios where N-type agents act as the state of the game while A-type agents compete with each other. You can read the revised preprint at arXiv:2403.08906.
 - Our latest preprint, co-authored by me (Yüksel Arslantaş), along with Ege Yüceel and Muhammed Ömer Sayın, is now live on arXiv! The paper is titled '[Strategizing against Q-learners: A Control-theoretical Approach](https://arxiv.org/abs/2403.08906)' and you can check it out at arXiv:2403.08906.
