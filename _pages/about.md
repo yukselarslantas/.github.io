@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently pursuing a Ph.D. in Electrical and Electronics Engineering at Bilkent University, building on my Master’s degree from the same institution. Under [Dr. Muhammed Sayın](https://gdn.bilkent.edu.tr/sayin/)'s guidance in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/), my focus spans algorithmic game theory, control theory, and multi-agent reinforcement learning. My research aims to bridge theory and practical applications in these areas.
 
-##
+
 Check out our latest research contribution on multi-agent reinforcement learning at NeurIPS 2024
 
 [![NeurIPS 2024 Poster](../images/neuripsPosterFinal.png)](../images/neuripsPosterFinal.png)
